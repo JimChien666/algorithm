@@ -1,7 +1,9 @@
 # algorithm course
 1. palindrome
 中文: 回文，如果單字正著看或倒著看都是長一樣的，他就是回文(algorithm)
+
 舉例:
+
 noon, racecar
 
 - 方法一 確認單字正著看或倒著看都是長一樣的，他就是回文
